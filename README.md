@@ -29,4 +29,4 @@ Final-year B.Tech student in **Electrical & Computer Engineering** at **GIET Aut
 
 ## Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/ayush-kumar-34b159376/
