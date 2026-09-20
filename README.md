@@ -1,17 +1,32 @@
 # Hi, I'm Ayush Kumar 👋
 
-### Aspiring Software Engineer | Java | DSA | Spring Boot
+## Aspiring Software Engineer | Java | DSA | Spring Boot
 
-I'm a final-year B.Tech student in Electrical & Computer Engineering at GIET Autonomous, Khordha.
+Final-year B.Tech student in **Electrical & Computer Engineering** at **GIET Autonomous, Khordha**, passionate about backend development and problem-solving.
 
-## Currently Learning
+## Tech Stack
 
-* Java
-* Data Structures & Algorithms
-* Spring Boot
-* SQL
-* Git & GitHub
+* ☕ Java
+* 🌱 Spring Boot
+* 📊 Data Structures & Algorithms
+* 🗄️ SQL
+* 🔧 Git & GitHub
+* 💻 IntelliJ IDEA
+* 🖥️ VS Code
 
-## Current Goal
+## Currently Working On
 
-Preparing for 2027 Software Engineer placements while building real-world backend projects.
+* Java DSA preparation
+* Spring Boot backend projects
+* LeetCode problem solving
+* Web Vulnerability Assessment project
+
+## Goals
+
+* Secure a Software Engineer role in 2027
+* Build production-ready backend projects
+* Strengthen problem-solving and system design skills
+
+## Connect With Me
+
+* LinkedIn: Add your LinkedIn profile link here
